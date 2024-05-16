@@ -4,6 +4,7 @@ Tiny mnist classifier used as a benchmarking model to quickly test NN performanc
 
 ## Quickstart
 Execute:
+
 ```
-./start.sh
+git clone https://github.com/Linus187erz/nn_benchy.git && cd nn_benchy && ./start.sh
 ```
